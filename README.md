@@ -1,6 +1,7 @@
 # PHARMACY MANAGEMENT SYSTEM
 
 My idea of this project is to create a structured backend for pharmacy managment system, where supplies can be recorded into DB by the user. 
+Strictly follows the ER Diagram drafted by me. Check it @   dd 
 
 The aim of this project to ensure the ease of the users by providing structured DB like the ER diagram and user-friendly UI/UX.
 
